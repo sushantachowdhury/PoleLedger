@@ -1,0 +1,6 @@
+{
+  "name": "PoleLedger",
+  "description": "Utility pole inspection and maintenance reporting platform for field technicians and operations administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
